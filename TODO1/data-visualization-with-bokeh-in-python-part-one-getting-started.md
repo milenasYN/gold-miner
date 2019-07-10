@@ -229,7 +229,7 @@ show(p)
 
 主动交互需要编写更多的脚本，但这给了我们可以使用 Python 的机会！（如果有人想在下一篇文章之前看一下绘图的代码[可以在这里进行查看](https://github.com/WillKoehrsen/Bokeh-Python-Visualization/blob/master/interactive/histogram.py)。)
 
-在本系列文章中，我想强调的是，Boken 或者任何一个库工具永远都不会是满足所有绘图需求的一站式解决工具。Bokeh 允许用户研究绘图，但对于其他应用，像简单的[探索性数据分析](https://en.wikipedia.org/wiki/Exploratory_data_analysis)，`matplotlib` 这样的轻量级库可能会更高效。本系列旨在为你提供绘图工具的另一种选择，这需要更加需求来进行抉择。你知道的库越多，就越能高效地使用可视化工具完成任务。
+在本系列文章中，我想强调的是，Bokeh 或者任何一个库工具永远都不会是满足所有绘图需求的一站式解决工具。Bokeh 允许用户研究绘图，但对于其他应用，像简单的[探索性数据分析](https://en.wikipedia.org/wiki/Exploratory_data_analysis)，`matplotlib` 这样的轻量级库可能会更高效。本系列旨在为你提供绘图工具的另一种选择，这需要更加需求来进行抉择。你知道的库越多，就越能高效地使用可视化工具完成任务。
 
 我一直以来都非常欢迎那些具有建设性的批评和反馈。你们可以在 Twitter [@koehrsen_will](http://twitter.com/@koehrsen_will) 上联系到我。
 
